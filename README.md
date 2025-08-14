@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Aakash%20Satyam%20Jha&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=200&section=header&text=AAKASH%20SATYAM%20JHA&fontSize=45&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Aspiring%20Software%20Developer&descAlignY=55&descSize=20" />
 </p>
 
 <!-- Introduction -->
@@ -12,7 +12,6 @@
 
 ---
 
-<!-- Skills -->
 ### 🚀 Skills & Technologies  
 **Languages:**  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -37,20 +36,18 @@
 
 ---
 
-<!-- GitHub Stats -->
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashsatyamjha&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsatyamjha&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashsatyamjha&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsatyamjha&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsatyamjha&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsatyamjha&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-<!-- Social Links -->
 ### 🌐 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/aakash-satyam-jha-7bab432a4/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -61,5 +58,5 @@
 
 <!-- Footer Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=120&section=footer"/>
 </p>
