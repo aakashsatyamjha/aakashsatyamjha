@@ -1,25 +1,59 @@
-# 👋 Hi, I'm Aakash Satyam Jha
+<!-- Profile Banner -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="auto" />
 
-💻 BTech in Information Technology | 3rd Year  
-🚀 Aspiring Blockchain Developer & AI Enthusiast  
+<h1 align="center">👋 Hi, I'm Aakash Satyam Jha</h1>
+<h3 align="center">💻 Age 21 | BTech in Information Technology | Techno Main Salt Lake</h3>
+<p align="center"><b>"Think. Code. Apply."</b></p>
 
 ---
 
-## 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)
-![Blockchain](https://img.shields.io/badge/-Blockchain-05122A?style=flat&logo=bitcoin)
+## 🌟 About Me
+🎓 3rd-year BTech IT student passionate about software development and emerging technologies.  
+🚀 Skilled in multiple programming languages and frameworks.  
+💡 Always learning, building, and applying knowledge to real-world projects.
+
+---
+
+## 🛠️ Skills
+
+**Languages:**  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+
+**Concepts:**  
+📌 Object-Oriented Programming (OOP)  
+📌 Software Engineering  
+📌 Operating Systems  
+
+**Tools & Frameworks:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwindcss)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 
 ---
 
 ## 📊 GitHub Stats
-![Aakash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aakashsatyamjha&show_icons=true&theme=radical" alt="GitHub Stats" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsatyamjha&layout=compact&theme=radical" alt="Top Languages" height="160"/>
+</p>
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white)](YOUR_LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL)
+## 🤝 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/aakash-satyam-jha-7bab432a4/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:aakash23112004@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
+
+---
+
+<!-- Footer Animation -->
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="auto" />
