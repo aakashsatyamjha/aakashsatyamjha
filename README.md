@@ -1,5 +1,8 @@
-<!-- Profile Banner -->
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%" height="auto" />
+<!-- Premium Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7e5f,100:feb47b&height=200&section=header&text=Aakash%20Satyam%20Jha&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 
 <h1 align="center">👋 Hi, I'm Aakash Satyam Jha</h1>
 <h3 align="center">💻 Age 21 | BTech in Information Technology | Techno Main Salt Lake</h3>
