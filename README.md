@@ -16,31 +16,45 @@
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c" /><br>C
-  <img src="https://skillicons.dev/icons?i=cpp" /><br>C++
-  <img src="https://skillicons.dev/icons?i=python" /><br>Python
-  <img src="https://skillicons.dev/icons?i=java" /><br>Java
-  <img src="https://skillicons.dev/icons?i=js" /><br>JavaScript
-  <img src="https://skillicons.dev/icons?i=html" /><br>HTML
-  <img src="https://skillicons.dev/icons?i=css" /><br>CSS
+  <img src="https://skillicons.dev/icons?i=c" width="50"/>  
+  <img src="https://skillicons.dev/icons?i=cpp" width="50"/>  
+  <img src="https://skillicons.dev/icons?i=python" width="50"/>  
+  <img src="https://skillicons.dev/icons?i=java" width="50"/>  
+  <img src="https://skillicons.dev/icons?i=js" width="50"/>  
+  <img src="https://skillicons.dev/icons?i=html" width="50"/>  
+  <img src="https://skillicons.dev/icons?i=css" width="50"/>  
+</p>
+
+<p align="center">
+  <b>C • C++ • Python • Java • JavaScript • HTML • CSS</b>
 </p>
 
 ### 📚 Core Concepts  
 <p align="center">
-  <b>OOPs • Software Engineering • Operating Systems</b>
+  <img src="https://img.shields.io/badge/OOPs-9333EA?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software%20Engineering-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Operating%20Systems-06B6D4?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
 ### 🛠 Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git" /><br>Git
-  <img src="https://skillicons.dev/icons?i=github" /><br>GitHub
-  <img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
+  <img src="https://skillicons.dev/icons?i=git" width="50"/>  
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>  
+  <img src="https://skillicons.dev/icons?i=vscode" width="50"/>  
+</p>
+
+<p align="center">
+  <b>Git • GitHub • VS Code</b>
 </p>
 
 ### 🎨 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" /><br>React
-  <img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS
+  <img src="https://skillicons.dev/icons?i=react" width="50"/>  
+  <img src="https://skillicons.dev/icons?i=tailwind" width="50"/>  
+</p>
+
+<p align="center">
+  <b>React • Tailwind CSS</b>
 </p>
 
 ---
