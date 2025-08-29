@@ -16,7 +16,13 @@
 
 ### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=c" /><br>C
+  <img src="https://skillicons.dev/icons?i=cpp" /><br>C++
+  <img src="https://skillicons.dev/icons?i=python" /><br>Python
+  <img src="https://skillicons.dev/icons?i=java" /><br>Java
+  <img src="https://skillicons.dev/icons?i=js" /><br>JavaScript
+  <img src="https://skillicons.dev/icons?i=html" /><br>HTML
+  <img src="https://skillicons.dev/icons?i=css" /><br>CSS
 </p>
 
 ### 📚 Core Concepts  
@@ -26,12 +32,15 @@
 
 ### 🛠 Tools & Platforms  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git" /><br>Git
+  <img src="https://skillicons.dev/icons?i=github" /><br>GitHub
+  <img src="https://skillicons.dev/icons?i=vscode" /><br>VS Code
 </p>
 
 ### 🎨 Frameworks & Libraries  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react" /><br>React
+  <img src="https://skillicons.dev/icons?i=tailwind" /><br>Tailwind CSS
 </p>
 
 ---
@@ -40,10 +49,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aakashsatyamjha&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA&icon_color=06B6D4" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashsatyamjha&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=9333EA" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashsatyamjha&theme=radical&hide_border=true&background=0D1117&stroke=9333EA&ring=06B6D4&fire=9333EA&currStreakNum=ffffff&currStreakLabel=06B6D4&sideNums=ffffff&sideLabels=9333EA&dates=ffffff" height="180"/>
 </p>
 
 ---
